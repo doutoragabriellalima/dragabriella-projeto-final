@@ -3,6 +3,14 @@
     {
       "source": "/",
       "destination": "/index.html"
+    },
+    {
+      "source": "/casos",
+      "destination": "/casos/index.html"
+    },
+    {
+      "source": "/evolua",
+      "destination": "/evolua/index.html"
     }
   ]
 }
